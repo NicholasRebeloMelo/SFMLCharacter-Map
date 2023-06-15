@@ -1,0 +1,28 @@
+﻿  Player.cpp
+C:\Users\nicho\source\repos\SFMLPlatformer\SFMLPlatformer\Player.cpp(94,29): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\nicho\source\repos\SFMLPlatformer\SFMLPlatformer\Player.cpp(95,31): warning C4244: '+=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\nicho\source\repos\SFMLPlatformer\SFMLPlatformer\Player.cpp(109,29): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\nicho\source\repos\SFMLPlatformer\SFMLPlatformer\Player.cpp(110,31): warning C4244: '+=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\nicho\source\repos\SFMLPlatformer\SFMLPlatformer\Player.cpp(182,27): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\nicho\source\repos\SFMLPlatformer\SFMLPlatformer\Player.cpp(146): warning C4172: returning address of local variable or temporary: anim_switch
+  SFMLPlatformer.vcxproj -> C:\Users\nicho\source\repos\SFMLPlatformer\x64\Debug\SFMLPlatformer.exe

@@ -1,0 +1,8 @@
+﻿  main.cpp
+MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol _main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\GameDev\SFML-2.5.1\lib\sfml-system-d.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+C:\GameDev\SFML-2.5.1\lib\sfml-graphics-d.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+C:\GameDev\SFML-2.5.1\lib\sfml-window-d.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+C:\GameDev\SFML-2.5.1\lib\sfml-audio-d.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+C:\GameDev\SFML-2.5.1\lib\sfml-network-d.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+C:\Users\nicho\source\repos\SFMLPlatformer\Debug\SFMLPlatformer.exe : fatal error LNK1120: 1 unresolved externals
